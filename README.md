@@ -17,3 +17,9 @@
 ![](https://github.com/shinjaeguen/ssafy_bot/blob/master/cat.jpg?raw=true)
 
 chatbot practice
+
+
+| name | number | date
+|----|----|----
+| sjg | 01 | 12/10
+| kms | 02 | 12/20
